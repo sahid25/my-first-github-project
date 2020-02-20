@@ -1,0 +1,21 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  width: 100%;
+  /* overflow: hidden; */
+  background-color: black;
+}
+
+.hlw-w {
+  text-transform: uppercase;
+  text-align: center;
+  margin-top: 20px;
+  font-size: 21px;
+  padding: 20px;
+  border: 1px solid #ffffff;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  color: #ffffff;
+}
